@@ -14,4 +14,18 @@ I'm currently taking **Dockyard Academy Cirriculm** as a self-led software devel
 - [ ] Git Setup
   - Github login made
   - Repo Started
+  
+**The Rabbit-Hole Begins**  
+
+This feels like a "time-suck" but I also understand this is something I'm going to have to master as it's "table-stakes" for being a software engineer. Keep telling myself that this is like any computer game mostly a console game (**pun intended**), where it's just beating levels till the end and to enjoy the progress. 
+
   - Figuring out the *"Main"* versus *"Solutions"* for local devolping on my computer to track progress. 
+  - Command for resetting your *Origin* so you can properly pull updates from the correct Git Repo and not your Soltuion's Repo
+    - `` git remote set-url origin https://github.com/DockYard-Academy/curriculum.git ``
+  - Set my repo for Solutions branch
+   - ``git remote add upstream  https://github.com/TheGriffinCircus/dockyard-academy-solutions.git``
+  - Sitting here, banging my head on the table. Hoping for *"AH-HA Moment"* and it' not coming, this needs to be simplier for self-led.
+    - Choosing to skip for now and revisit.
+    - IS this the solution??? - ``git push upstream command-line-reading`` Will have to revisit, this?
+    - Setup SSH or personal token for access.[Further reading and reference from Github](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls)
+   
