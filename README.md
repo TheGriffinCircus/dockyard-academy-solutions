@@ -8,7 +8,7 @@ I'm currently taking **Dockyard Academy Cirriculm** as a self-led software devel
 
 ### TODO
 
-- [] Move the below section to the corasponding study section
+- [] Move the below section to the corresponding study section
 
 ---
 ---
